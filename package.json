@@ -3,11 +3,15 @@
     "displayName": "Hadar Theme",
     "description": "Un tema oscuro traído desde la constelación de Centauro, para darte comodidad al programar",
     "version": "0.0.1",
-    "publisher": "Cristian Vasquez",
+    "publisher": "cristianvasquez1312",
     "icon": "images/logo.png",
     "autor":{
         "name": "Cristian Vásquez",
         "email": "vasquezcristian140@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CristianVasquez13/Hadar-vscode"
     },
     "engines": {
         "vscode": "^1.53.0"

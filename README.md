@@ -29,6 +29,6 @@
 5. File > Preferences > Color Theme > **Hadar**
 
 ## Mis redes Sociales
-<a href="https://web.facebook.com/CristianVasquez.01" target="_blank"><img src="https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/fb.png">  Facebook</a>
-<a href="https://www.instagram.com/cristianvasquez_13/" target="_blank"><img src="https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/ig.png">  Instagram</a>
-<a href="https://twitter.com/Cristianvasquz1" target="_blank"><img src="https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/tw.png">  Twitter</a>
+<a href="https://web.facebook.com/CristianVasquez.01" target="_blank"><img src="https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/fb.png"></a>
+<a href="https://www.instagram.com/cristianvasquez_13/" target="_blank"><img src="https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/ig.png"></a>
+<a href="https://twitter.com/Cristianvasquz1" target="_blank"><img src="https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/tw.png"></a>
