@@ -1,34 +1,32 @@
-<center>
-<img alt="Hadar Logo" src="https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/logo.png" width="200"/>
+<p align="center">
+    <img alt="Hadar Logo" src="https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/logo.png" width="200"/>
+</p>
+<h1 align="center">Hadar Theme for VS Code</h1>
 
-# Hadar Theme for VS Code
+<p align="center">Un pack de tres temas oscuros traído desde la constelación de Centauro para darte mas comodidad al programar en la oscuridad.</p>
 
-Un pack de tres temas oscuros traído desde la constelación de Centauro para darte mas comodidad al programar en la oscuridad.
-
-<p>
+<p align="center">
     <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version-short/cristianvasquez1312.hadar-vscode.svg"/>
     <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads-short/cristianvasquez1312.hadar-vscode.svg"/>
     <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs-short/cristianvasquez1312.hadar-vscode.svg"/>
     <img alt="Rating" src="https://vsmarketplacebadge.apphb.com/rating-star/cristianvasquez1312.hadar-vscode.svg"/>
 </p>
 
-<div style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
     <a href="https://hadartheme.netlify.app/" style="padding: 10px 20px; border: none; text-decoration: none; border-radius: 50px; background-color: #CF055B; color: #ffffff; font-weight: bold;">Descubra más aquí</a>
 </div>
 
-# Hadar
+<h1 align="center">Hadar</h1>
 
 ![demo](https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/hadar.png)
 
-#  Hadar II
+<h1 align="center">Hadar II</h1>
 
 ![demo](https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/hadarII.png)
 
-# Hadar III
+<h1 align="center">Hadar III</h1>
 
 ![demo](https://raw.github.com/CristianVasquez13/Hadar-vscode/master/images/hadarIII.png)
-
-</center>
 
 ## I Installation from VS Code
 
@@ -45,7 +43,4 @@ Un pack de tres temas oscuros traído desde la constelación de Centauro para da
 3. Point to the **.vsix** file and install it
 4. Open `File > Preferences > Color Themes` and pick **Hadar**
 
-<center>
-
-Elaborado por: [Cristian Vásquez](https://mislinks.netlify.app/)
-</center>
+<p align="center">Elaborado por: <a href="https://mislinks.netlify.app/">Cristian Vásquez</a></p>
