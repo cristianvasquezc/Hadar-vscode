@@ -30,15 +30,15 @@
 
 ## I Installation from VS Code
 
-1. Open **Extensions** sidebar panel in VS Code. `View > Extensions` or **Ctrl+Shift+X**
-2. Search for `Hadar`
+1. Open **Extensions** sidebar panel in VS Code. `View > Extensions` or <kbd>Cmd/Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>
+2. Search for `Hadar Theme`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
 5. Open `File > Preferences > Color Themes` and pick **Hadar**
 
 ## II Install from a VSIX
 
-1. Open **Command Palette** in VS Code. `View > Command Palette` or **Ctrl+Mayús+P**
+1. Open **Command Palette** in VS Code. `View > Command Palette` or <kbd>Cmd/Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 2. Type ``` Extensions: Install from VSIX ```
 3. Point to the **.vsix** file and install it
 4. Open `File > Preferences > Color Themes` and pick **Hadar**
