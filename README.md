@@ -6,10 +6,11 @@
 <p align="center">Un pack de tres temas oscuros traído desde la constelación de Centauro para darte mas comodidad al programar en la oscuridad.</p>
 
 <p align="center">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version-short/cristianvasquez1312.hadar-vscode.svg"/>
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads-short/cristianvasquez1312.hadar-vscode.svg"/>
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs-short/cristianvasquez1312.hadar-vscode.svg"/>
-    <img alt="Rating" src="https://vsmarketplacebadge.apphb.com/rating-star/cristianvasquez1312.hadar-vscode.svg"/>
+<img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/cristianvasquez1312.hadar-vscode">
+<img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/cristianvasquez1312.hadar-vscode">
+<img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/cristianvasquez1312.hadar-vscode">
+<img alt="Rating" src="https://img.shields.io/visual-studio-marketplace/stars/cristianvasquez1312.hadar-vscode">
+<img alt="Last Updated" src="https://img.shields.io/visual-studio-marketplace/last-updated/cristianvasquez1312.hadar-vscode">
 </p>
 
 <div align="center" style="margin: 20px 0;">
@@ -34,13 +35,15 @@
 2. Search for `Hadar Theme`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Open `File > Preferences > Color Themes` and pick **Hadar**
+5. Open `File > Preferences > Theme > Color Theme` and pick **Hadar**
+6. Open `File > Preferences > Theme > File Icon Theme` and pick **Hadar**
 
 ## II Install from a VSIX
 
 1. Open **Command Palette** in VS Code. `View > Command Palette` or <kbd>Cmd/Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 2. Type ``` Extensions: Install from VSIX ```
 3. Point to the **.vsix** file and install it
-4. Open `File > Preferences > Color Themes` and pick **Hadar**
+4. Open `File > Preferences > Theme > Color Theme` and pick **Hadar**
+6. Open `File > Preferences > Theme > File Icon Theme` and pick **Hadar**
 
 <p align="center">Elaborado por: <a href="https://mislinks.netlify.app/">Cristian Vásquez</a></p>
